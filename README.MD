@@ -88,7 +88,7 @@ bike-sales-excel-dashboard/
 | Avg Income (Buyers) | $57,475 |
 
 ### Chart 1 — Buyers vs Non-Buyers by Age Group
-- 36-45 age group converts best at **57.7%**
+- 36-45 age group converts best at **57.7%**   
 - 56+ age group converts lowest at **31.4%**
 - 18-25 highest conversion (66.7%) but only 6 customers — low confidence
 
