@@ -11,7 +11,7 @@
 ---
 
 ## 🎯 Business Problem
-
+ 
 A bike retailer with customers across **North America, Europe, and Pacific**
 needs to understand who is buying bikes — and who isn't — so the marketing
 team can target campaigns more effectively and the sales team can focus on
